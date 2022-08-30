@@ -4,7 +4,7 @@ Tech Shop is a Tech Product Selling App With Shopping cart.
 
 # See live demo here
 
-
+https://techdigital.netlify.app/
 
 ## Available Scripts
 
